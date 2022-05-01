@@ -51,7 +51,7 @@ Guards_Locations_on_Triangle_Vertices.py
 
 ![Guards on the vertices of the triangles](https://user-images.githubusercontent.com/79450753/166160732-1457917d-371d-410f-b997-7ace0f8f7701.png)
 
-# Methods for guard placement, from best to worst, based on the minimum number of guards:
+### Methods for guard placement, from best to worst, based on the minimum number of guards:
 
 (Vertices of the polygon / Shrink Polygon) > (Vertices of the voronoi diagram) >> (Vertices of the dual tree) > (Vertices of the triangles)
 
