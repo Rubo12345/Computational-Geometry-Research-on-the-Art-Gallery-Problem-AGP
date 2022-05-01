@@ -15,3 +15,16 @@ Proposed (Simplified) Algorithm to solve the Art Gallery Problem (Diagonalisatio
 4) Find another vertex (Vj) on the polygon which guards maximum of the remaining unguarded edges.
 5) Continue step 3 and 4 until all the edges of the polygon are guarded
 
+Results:
+A) Solution to AGP with guards on the vertices of the polygon
+
+![Guards on the vertices of the polygon](https://user-images.githubusercontent.com/79450753/166160319-7fe947e7-2698-43bc-9895-31c918019cbf.png)
+
+B) Solution to AGP with guards on the vertices of the voronoi diagram of the polygon
+
+![Guards on the vertices of the voronoi diagram of the polygon](https://user-images.githubusercontent.com/79450753/166160412-5f1c143c-5a1e-41a8-a811-36411b25c83f.png)
+
+
+C) Solution to AGP with guards on the vertices of the polygon
+
+D) Solution to AGP with guards on the vertices of the polygon
