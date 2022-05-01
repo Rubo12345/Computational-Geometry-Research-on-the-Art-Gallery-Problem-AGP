@@ -35,4 +35,6 @@ D) Solution to AGP with guards on the vertices of the triangles
 
 Methods for guard placement, from best to worst, based on the minimum number of guards:
 
-(Vertices of the polygon / Shrink Polygon) > (Vertices of the voronoi diagram) >> (Vertices of the dual tree) > (Vertices of the triangles) 
+(Vertices of the polygon / Shrink Polygon) > (Vertices of the voronoi diagram) >> (Vertices of the dual tree) > (Vertices of the triangles)
+
+(Instructions to run the code are given in the code itself)
