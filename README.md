@@ -17,19 +17,35 @@ Proposed (Simplified) Algorithm to solve the Art Gallery Problem (Diagonalisatio
 
 Results:
 
-A) Solution to AGP with guards on the vertices of the polygon
+A) Solution to AGP with guards on the vertices of the polygon 
+
+```
+Guard_Locations_on_Shrink_Polygon.py
+```
 
 ![Guards on the vertices of the polygon](https://user-images.githubusercontent.com/79450753/166160319-7fe947e7-2698-43bc-9895-31c918019cbf.png)
 
 B) Solution to AGP with guards on the vertices of the voronoi diagram of the polygon
 
+```
+Guard_Locations_on_Voronoi_Diagram.py
+```
+
 ![Guards on the vertices of the voronoi diagram of the polygon](https://user-images.githubusercontent.com/79450753/166160462-63d5eb58-2dd5-4c7c-853a-d725979e9ec4.png)
 
 C) Solution to AGP with guards on the dual tree of the polygon
 
+```
+Guard_Locations_on_the_Dual_Tree.py
+```
+
 ![Guards on the dual tree of the polygon](https://user-images.githubusercontent.com/79450753/166160612-5a3509ab-8785-4601-a541-d5cced1cd3e0.png)
 
 D) Solution to AGP with guards on the vertices of the triangles
+
+```
+Guards_Locations_on_Triangle_Vertices.py
+```
 
 ![Guards on the vertices of the triangles](https://user-images.githubusercontent.com/79450753/166160732-1457917d-371d-410f-b997-7ace0f8f7701.png)
 
