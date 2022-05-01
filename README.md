@@ -7,3 +7,11 @@ The art gallery problem is a problem to determine the minimum number of guards t
 The image below shows an indoor environment (Art Gallery/Museum) and its polygon:
 
 ![Indoor Environment and Polygon](https://user-images.githubusercontent.com/79450753/166154443-0b71c4df-68f6-4a19-b088-17e3911bfdca.png)
+
+Proposed (Simplified) Algorithm to solve the Art Gallery Problem (Diagonalisation Method):
+1) Create a polygon
+2) Find a vertex(Vi) in the polygon which guards maximum no. of edges of the polygon
+3) Now search for edges that remain unguarded by the previous vertex (Vi)
+4) Find another vertex (Vj) on the polygon which guards maximum of the remaining unguarded edges.
+5) Continue step 3 and 4 until all the edges of the polygon are guarded
+
