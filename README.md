@@ -15,7 +15,7 @@ Proposed (Simplified) Algorithm to solve the Art Gallery Problem (Diagonalisatio
 4) Find another vertex (Vj) on the polygon which guards maximum of the remaining unguarded edges.
 5) Continue step 3 and 4 until all the edges of the polygon are guarded
 
-(Instructions to run the code are given in the code itself)
+### (Instructions to run the code are given in the code itself)
 
 Results:
 
