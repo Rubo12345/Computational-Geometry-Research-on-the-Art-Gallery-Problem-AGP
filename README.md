@@ -16,6 +16,7 @@ Proposed (Simplified) Algorithm to solve the Art Gallery Problem (Diagonalisatio
 5) Continue step 3 and 4 until all the edges of the polygon are guarded
 
 Results:
+
 A) Solution to AGP with guards on the vertices of the polygon
 
 ![Guards on the vertices of the polygon](https://user-images.githubusercontent.com/79450753/166160319-7fe947e7-2698-43bc-9895-31c918019cbf.png)
@@ -32,4 +33,6 @@ D) Solution to AGP with guards on the vertices of the triangles
 
 ![Guards on the vertices of the triangles](https://user-images.githubusercontent.com/79450753/166160732-1457917d-371d-410f-b997-7ace0f8f7701.png)
 
+Methods for guard placement, from best to worst, based on the minimum number of guards:
 
+(Vertices of the polygon / Shrink Polygon) > (Vertices of the voronoi diagram) >> (Vertices of the dual tree) > (Vertices of the triangles) 
