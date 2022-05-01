@@ -6,8 +6,4 @@ The art gallery problem is a problem to determine the minimum number of guards t
 
 The image below shows an indoor environment (Art Gallery/Museum) and its polygon:
 
-![Indoor Environment](https://user-images.githubusercontent.com/79450753/166154104-153c71f1-b15d-4563-b0b7-ce70627bfee2.JPG)
-
-
-![Polygon](https://user-images.githubusercontent.com/79450753/166154131-e2a21458-e6ad-4137-93e1-b44e81662a1d.png)
-
+![Indoor Environment and Polygon](https://user-images.githubusercontent.com/79450753/166154443-0b71c4df-68f6-4a19-b088-17e3911bfdca.png)
