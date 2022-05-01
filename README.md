@@ -22,7 +22,8 @@ A) Solution to AGP with guards on the vertices of the polygon
 
 B) Solution to AGP with guards on the vertices of the voronoi diagram of the polygon
 
-![Guards on the vertices of the voronoi diagram of the polygon](https://user-images.githubusercontent.com/79450753/166160412-5f1c143c-5a1e-41a8-a811-36411b25c83f.png)
+![Guards on the vertices of the voronoi diagram of the polygon](https://user-images.githubusercontent.com/79450753/166160462-63d5eb58-2dd5-4c7c-853a-d725979e9ec4.png)
+
 
 
 C) Solution to AGP with guards on the vertices of the polygon
