@@ -15,6 +15,8 @@ Proposed (Simplified) Algorithm to solve the Art Gallery Problem (Diagonalisatio
 4) Find another vertex (Vj) on the polygon which guards maximum of the remaining unguarded edges.
 5) Continue step 3 and 4 until all the edges of the polygon are guarded
 
+(Instructions to run the code are given in the code itself)
+
 Results:
 
 A) Solution to AGP with guards on the vertices of the polygon 
@@ -49,8 +51,15 @@ Guards_Locations_on_Triangle_Vertices.py
 
 ![Guards on the vertices of the triangles](https://user-images.githubusercontent.com/79450753/166160732-1457917d-371d-410f-b997-7ace0f8f7701.png)
 
-Methods for guard placement, from best to worst, based on the minimum number of guards:
+# Methods for guard placement, from best to worst, based on the minimum number of guards:
 
 (Vertices of the polygon / Shrink Polygon) > (Vertices of the voronoi diagram) >> (Vertices of the dual tree) > (Vertices of the triangles)
 
-(Instructions to run the code are given in the code itself)
+E) Solution to AGP with guards on the vertices of the polygon with holes
+
+`
+Guard_Locations_on_Shrink_Polygon_with_Holes.py
+`
+
+![Guards on the vertices of the polygon with holes](https://user-images.githubusercontent.com/79450753/166161641-a0c02780-5476-4ead-8236-4351831a9a53.png)
+
