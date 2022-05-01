@@ -24,8 +24,12 @@ B) Solution to AGP with guards on the vertices of the voronoi diagram of the pol
 
 ![Guards on the vertices of the voronoi diagram of the polygon](https://user-images.githubusercontent.com/79450753/166160462-63d5eb58-2dd5-4c7c-853a-d725979e9ec4.png)
 
+C) Solution to AGP with guards on the dual tree of the polygon
+
+![Guards on the dual tree of the polygon](https://user-images.githubusercontent.com/79450753/166160612-5a3509ab-8785-4601-a541-d5cced1cd3e0.png)
+
+D) Solution to AGP with guards on the vertices of the triangles
+
+![Guards on the vertices of the triangles](https://user-images.githubusercontent.com/79450753/166160732-1457917d-371d-410f-b997-7ace0f8f7701.png)
 
 
-C) Solution to AGP with guards on the vertices of the polygon
-
-D) Solution to AGP with guards on the vertices of the polygon
