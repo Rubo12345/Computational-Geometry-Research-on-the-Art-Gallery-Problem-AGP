@@ -62,4 +62,3 @@ Guard_Locations_on_Shrink_Polygon_with_Holes.py
 `
 
 ![Guards on the vertices of the polygon with holes](https://user-images.githubusercontent.com/79450753/166161641-a0c02780-5476-4ead-8236-4351831a9a53.png)
-
