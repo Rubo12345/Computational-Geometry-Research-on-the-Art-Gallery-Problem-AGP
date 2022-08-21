@@ -1,5 +1,6 @@
 # Computational-Geometry-Research-on-the-Art-Gallery-Problem (AGP)
-
+## Nanyang Technological University Intership Research
+### [Rutwik Bonde](https://github.com/Rubo12345), Cai Yiyu
 ## Introduction to the Art Gallery Problem
 
 The art gallery problem is a problem to determine the minimum number of guards that are required or are sufficient to cover or see every point in the interior of an art gallery. An art gallery can be viewed as a polygon with or without holes with a total of n vertices; and guards as points in polygon, or on vertex, or on the edge of the polygon. Any point P in the polygon is said to be visible from a guard G if the line segment joining P and G does not intersect the exterior of the polygon. If the stationary guards are placed anywhere inside the polygon, then they are referred as point guards. If the stationary guards are placed on vertex of the polygon, then those are called vertex guards. Whereas if the guards move inside the polygon, then they are referred as mobile guards and further if these mobile guards are restricted to edges of polygon, then they are called edge guards.
