@@ -10,7 +10,7 @@ Before you run the code, make sure you have all the requirements met:
 ## Usage Guidelines
 To run this project, you will need to clone this repository in your local project folder using the following command:
 
-```git clone https://github.com/Rubo12345/Computational-Geometry-Research-on-the-Art-Gallery-Problem-AGP.git```
+`git clone https://github.com/Rubo12345/Computational-Geometry-Research-on-the-Art-Gallery-Problem-AGP.git`
 
 More details about running the code are given below
 
