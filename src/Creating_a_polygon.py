@@ -1,4 +1,4 @@
-#Creating a polygdn
+#Creating a polygon
 import matplotlib.pyplot as plt
 Dy = list()
 P = [(24970,19250),(23600,19250),(20740,22110),(22790,24160),(19395,27554)\
